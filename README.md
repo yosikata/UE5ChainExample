@@ -1,14 +1,13 @@
 # UE5ChainExample
-Sample of chain representation created with UE5 constrained  
 こちらはUE5でコンストレインを用いて作った鎖のサンプルになります。
 
 **The following gif is an example of a running sample.**  
 **下記Gifは実際のサンプルを動かした例になります。**  
-![Example](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVjeThrYXg4bm11OTgweXZyYW9qb3dmaXM1Y2ZtcHd6azFjcnNxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IQaIzekD2TQAUJXpiw/giphy.gif)
+![Example](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ByYmpidDY2ZW11dXRmYWNwenFrdHVmem9oaGl1M2RmaTF5bm9vMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5SN7weNIusY1TLCkwo/giphy.gif)
 
 ## 鎖の設定について
 鎖については**BP_ChainActorをゲームレベル上に配置する形**になります。  
-![ChainSetting](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZlNnVqeWFnNW54NTM3Z3Q1dTczY2l3cDVmODk3aG1peXR0OWIwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CnIf71LBmkvMlIHrjR/giphy.gif)  
+![ChainSetting](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFyNThtZmszeWFxd3cyZDk4cjI5OWVsbHpidjh5OWN0dWppNGsxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3hXHkxrUVCpXHwOoQ/giphy.gif)  
 
 **鎖のデータをについては各種設定設定項目があります。**  
 * **ChainData項目**  
@@ -19,5 +18,6 @@ Sample of chain representation created with UE5 constrained
   * Swing Angle ← **曲がる角度**
   * Swing Motion Type ← **角度がまがるかどうか(Free・Limited・Lock)**　　
   * Is Breakable ← **鎖が切れるかどうか**
-  * Linear Break Threshold ← **鎖が切れるまでの強度**  
-![setting](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc2ZWZ6d3l6MjR2ZmthdW1qN2htbnB0YWt5MnBka296eHlqMXo4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4v71p539ctuzYrDMlc/giphy.gif)
+  * Linear Break Threshold ← **鎖が切れるまでの強度**
+
+![Chainsettings](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm14MWNkbGJueWh0ZnNlcGQzM29ncTR4aWU1YWdqZWg5dHJsbmlkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4HFdxSyyvQnkUK9QJw/giphy.gif)
